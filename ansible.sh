@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir ansible_integration
 cd ansible_integration
 touch ansible.txt
